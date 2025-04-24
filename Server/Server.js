@@ -1,7 +1,7 @@
 // Importing core packages
 import express from 'express';
 import dotenv from 'dotenv';
-import paymentRoutes from './routes/payments.js';
+import paymentRoutes from './Routes/Payments.js';
 
 // Config .env
 dotenv.config();
